@@ -32,6 +32,7 @@ A business university student who just loves web development and declared it to 
 
 ### Nari Roh
 
-### jon-maldia
-
+### jmaldia
+Frontend Dev <br>
+I am an entrepreneur by heart but I also enjoy building things. I am currently working with a startup as a consultant. Aside from this project, I am also involved in another project focused on healthy lifestyle living. You can learn more about me and my work [here](http://jonmaldia.com).
 ### NatalieR
