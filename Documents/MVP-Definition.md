@@ -1,5 +1,5 @@
 [warning]: https://cdn.proxer.me/f/hYVIoAVi "Team participation needed"
-### If you see the following, input is necessary: ![alt text][warning]
+### If you see the following, team input is welcome: ![alt text][warning]
 
 ### Our MVP consists of the following parts:
 
@@ -19,6 +19,10 @@
 * Do we have a question about cookies upon first visit? ![alt text][warning]
 
 # Sign up / Login Form (est. 24.08)
+
+* sign in with google/facebook and normal email/passwort combo ![alt text][warning]
+* remember me feature
+* User has to comply with terms and agreements
 
 # Notes Page (est. 07.09)
 
