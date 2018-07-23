@@ -1,5 +1,5 @@
-
-Color explanation: <span style="color:orange">NEEDS TEAM INPUT</span>
+[warning]: https://cdn.proxer.me/f/hYVIoAVi "Team participation needed"
+### If you see the following, input is necessary: ![alt text][warning]
 
 ### Our MVP consists of the following parts:
 
@@ -16,7 +16,7 @@ Color explanation: <span style="color:orange">NEEDS TEAM INPUT</span>
 * User can find a description of the service and compelling arguments for using it, together with pictures
 * A team part can be found, where the team is listed
 * A contact part exists
-* <span style="color:orange">Do we have a question about cookies upon first visit?</span>
+* Do we have a question about cookies upon first visit? ![alt text][warning]
 
 # Sign up / Login Form (est. 24.08)
 
