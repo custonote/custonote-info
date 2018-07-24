@@ -28,6 +28,9 @@ A business university student who just loves web development and declared it to 
 
 ### FancyAction
 
+Full Stack Dev<br>
+Friend to all corgis and a few humans. I'm a self-taught web dev with a background in communications (and some hobby projects built with C#/Unity). With this project, I am attempting to transition from frontend to backend in pursuit of going fullstack. As a result, I'll be working on whatever issues are needed with a focus on backend. You can see some of my previous projects [here](http://Allistair.net).
+
 ### Jethro Fredericks
 
 ### Nari Roh
