@@ -17,6 +17,16 @@ A note application for web and mobile devices. Build with MERN Stack
 * 14.09 Estimated: API finished
 * 30.09 Estimated: Mobile Apps finished
 
+## Stack
+
+* HTML
+* CSS
+* SASS / SCSS
+* React
+* Node.js
+* Express
+* MongoDB
+
 ## Team (Intro)
 
 ### Alexever17
