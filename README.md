@@ -25,6 +25,8 @@ Team lead, Frontend Dev.<br>
 A business university student who just loves web development and declared it to his favorite hobby. I am mostly a front end developer who also has one small project with some backend. You can see my portfolio here: [Portfolio](https://malakhov.work)
 
 ### Soreg
+Advisor, Frontend Dev<br>
+A passionate developer who loves to collaborate on new projects. I am a _mostly_ self-taught developer who loves to keep up to date with new trends and technologies. I am currently working at [HeseHus](https://www.hesehus.com/) in Denmark as a frontend developer. With this project, I hope to further improve mine + my teammates' skills in React and Redux. My personal portfolio can be found [here](http://sorendev-sidescroll-test.herokuapp.com/).
 
 ### FancyAction
 
