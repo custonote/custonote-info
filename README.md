@@ -63,6 +63,9 @@ I'm a self-taught web developer that loves all things code and hates all things 
 
 ### Nari Roh
 
+Full-stact Developer <br>
+"Travelling & Coding" these are two things I love and what I spend most time on. Recently I live in Mexico city enjoying delicious tacos and learning & building things with my passion. I focus on deepening my JavaScript knowledge now by learning JavaScript frameworks & libraries. With this project, I aim to learn more about MERN stack and have experince building an actual app with it. 
+
 ### jmaldia
 
 Frontend Dev <br>
