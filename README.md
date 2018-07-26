@@ -72,3 +72,6 @@ Frontend Dev <br>
 I am an entrepreneur by heart but I also enjoy building things. I am currently working with a startup as a consultant. Aside from this project, I am also involved in another project focused on healthy lifestyle living. You can learn more about me and my work [here](http://jonmaldia.com).
 
 ### NatalieR
+
+Frontend Developer <br>
+My background is in psych & marketing and I’ve spent the last several years  working in market research (and still consult for my former employer).  I’ve always loved to build and create, however, and decided to make the jump to web development earlier this year.  I’m interested in focusing on the front end, because I love all things design - the aesthetics and the user experience aspect - but plan to learn back-end down the line.  I am looking forward to learning React with this project.
