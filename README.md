@@ -8,7 +8,7 @@ A note application for web and mobile devices. Build with MERN Stack
 
 ## MVP Definition
 
-[MVP DOCUMENT](MVP-Definition)
+[MVP DOCUMENT](https://github.com/custonote/custonote-info/blob/development/MVP-Definition.md)
 
 ## Timeline
 
