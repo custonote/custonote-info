@@ -38,6 +38,7 @@
 - view icon, depending whether we find a good and purposful additional layout for notes
 - archive icon, you can click on it to see your archived notes, can drag to the symbol to archive
 - delete, drag note to the symbol to delete
+- user icon to log out
 - ### New note modal
 - also doubles as edit note modal, is the same as the hover state of the note ui wise, just with the addition of the last edited date on it
 - every time its closed the new state/note is being saved. 
