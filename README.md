@@ -6,6 +6,10 @@ All the information material for the project "custonote" and the image / design 
 
 A note application for web and mobile devices. Build with MERN Stack
 
+## MVP Definition
+
+[MVP DOCUMENT](MVP-Definition)
+
 ## Timeline
 
 - 22.07 Project Kickoff
